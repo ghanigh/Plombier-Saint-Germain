@@ -1118,6 +1118,10 @@
     padding-right: 10px;
   }
 
+  .u-section-6 .u-image-4 {
+    margin-left: auto;
+  }
+
   .u-section-6 .u-text-8 {
     margin-left: 157px;
   }
@@ -1151,10 +1155,6 @@
 
   .u-section-6 .u-text-3 {
     font-size: 1.125rem;
-  }
-
-  .u-section-6 .u-image-4 {
-    margin-left: 237px;
   }
 
   .u-section-6 .u-text-8 {
@@ -1370,6 +1370,8 @@
 
   .u-section-8 .u-form-1 {
     width: 340px;
+    margin-left: 0;
+    margin-right: 0;
   }
 
   .u-section-8 .u-image-1 {
