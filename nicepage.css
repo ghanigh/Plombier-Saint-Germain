@@ -39344,7 +39344,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-header .u-menu-1 {
-  margin: -81px auto 0 172px;
+  margin: -81px auto 0;
 }
 
 .u-header .u-nav-1 {
@@ -39394,7 +39394,6 @@ a.u-link.u-text-hover-grey-90:hover {
     width: auto;
     margin-top: -48px;
     margin-right: 28px;
-    margin-left: auto;
   }
 
   .u-header .u-language-1 {
