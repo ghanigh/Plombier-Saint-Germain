@@ -448,7 +448,7 @@
 .u-section-2 .u-text-32 {
   font-weight: 700;
   text-decoration: underline !important;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .u-section-2 .u-text-33 {
@@ -471,7 +471,7 @@
 .u-section-2 .u-text-35 {
   font-weight: 700;
   text-decoration: underline !important;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .u-section-2 .u-text-36 {
@@ -494,7 +494,7 @@
 .u-section-2 .u-text-38 {
   font-weight: 700;
   text-decoration: underline !important;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .u-section-2 .u-text-39 {
@@ -558,7 +558,6 @@
   .u-section-2 .u-repeater-3 {
     grid-template-columns: 100%;
     min-height: 615px;
-    grid-auto-columns: 100%;
   }
 }
 
@@ -870,7 +869,6 @@
   .u-section-4 .u-repeater-1 {
     grid-template-columns: 100%;
     min-height: 526px;
-    grid-auto-columns: 100%;
   }
 
   .u-section-4 .u-text-4 {
@@ -941,7 +939,6 @@
   grid-template-columns: calc(25% - 37.5px) calc(25% - 37.5px) calc(25% - 37.5px) calc(25% - 37.5px);
   grid-gap: 50px 50px;
   min-height: 282px;
-  grid-auto-columns: calc(25% - 37.5px);
 }
 
 .u-section-5 .u-list-item-1 {
@@ -1063,7 +1060,6 @@
 
   .u-section-5 .u-repeater-1 {
     grid-template-columns: calc(50% - 25px) calc(50% - 25px);
-    grid-auto-columns: calc(50% - 25px);
     min-height: 270px;
   }
 
@@ -1091,7 +1087,6 @@
 
   .u-section-5 .u-repeater-1 {
     grid-template-columns: 100%;
-    grid-auto-columns: 100%;
     min-height: 966px;
   }
 
